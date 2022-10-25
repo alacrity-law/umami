@@ -1,1 +1,1 @@
-web: npm run start-next
+web: npm run start-env
